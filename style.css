@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');     /*Headings, Call-to-actions, Header Navigation*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');                /*Body*/
+
+:root {
+    --very-dark-blue: hsl(243, 87%, 12%);           /*Primary colors*/
+    --desaturated-blue: hsl(238, 22%, 44%);         /*Primary colors*/
+
+    --bright-blue: hsl(224, 93%, 58%);              /*Accent colors*/
+    --moderate-cyan: hsl(170, 45%, 43%);            /*Accent colors*/
+
+    --light-grayish-blue: hsl(240, 75%, 98%);       /*Neutral colors*/
+    --light-gray: hsl(0, 0%, 75%);                  /*Neutral colors*/
+}
+
+* {
+    box-sizing: border-box;
+    font-size: 16px;
+}
